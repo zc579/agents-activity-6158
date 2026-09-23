@@ -1,4 +1,5 @@
 rust/target/
-logs/*.jsonl
+logs/*-crashed.jsonl
 __pycache__/
 *.pyc
+.env
